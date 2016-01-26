@@ -1,5 +1,6 @@
 package com.qoh332.mytutorial;
-
+// this is the hotfix
+// Wednesday
 public class Person {
 		//fields
 		private String name;  // person name
