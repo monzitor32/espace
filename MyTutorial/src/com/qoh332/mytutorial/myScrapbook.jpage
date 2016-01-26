@@ -1,0 +1,3 @@
+The method setName(String) is undefined for the type PersonThe method setName(String) is undefined for the type PersonThe method setMaximumBooks(int) is undefined for the type PersonPerson q = new Person();
+q.setName("DREF");q.setMaximumBooks(3);
+q

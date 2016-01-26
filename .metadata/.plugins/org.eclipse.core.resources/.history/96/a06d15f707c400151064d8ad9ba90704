@@ -1,0 +1,16 @@
+package com.qoh332.tutorial;
+
+public class Person {
+	//fields
+	private String name;  // person name
+	private int maximumBooks; // most books a person can checkout.
+	
+	//constructior
+	//sets up the fields
+	
+	public Person() {
+		name = "unknown name";
+		maximumBooks = 3;
+		
+	}
+}
