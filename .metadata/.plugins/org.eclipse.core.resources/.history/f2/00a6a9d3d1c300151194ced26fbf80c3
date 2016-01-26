@@ -1,0 +1,23 @@
+package com.qoh332.mytutorial;
+
+import junit.framework.TestCase;
+
+public class PersonTest extends TestCase {
+
+	//person test inherits all methods in the TestCase
+	
+	
+	
+	public void testPerson() {
+		fail("Not yet implemented");
+	}
+
+	public void testSetName() {
+		fail("Not yet implemented");
+	}
+
+	public void testSetMaximumBooks() {
+		fail("Not yet implemented");
+	}
+
+}
