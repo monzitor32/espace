@@ -34,6 +34,10 @@ public class Person {
 		}
 		
 
+		public String toString(){
+			return this.getName() + " (" + this.getMaximumBooks() + " books)";
+			
+		}
 		
 		
 		
