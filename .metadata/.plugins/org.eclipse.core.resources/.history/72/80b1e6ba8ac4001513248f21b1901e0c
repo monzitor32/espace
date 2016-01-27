@@ -1,0 +1,10 @@
+package com.qoh332.mytutorial;
+
+import junit.framework.TestCase;
+
+public class BookTest {
+
+	Book b1 = new Book("Great Expectations");
+	assertEquals("Greate Expectations", b1.title);
+	
+}
