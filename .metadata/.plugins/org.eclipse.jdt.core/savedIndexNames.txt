@@ -1,22 +1,6 @@
-INDEX VERSION 1.127+C:\espace\.metadata\.plugins\org.eclipse.jdt.core
-1233791618.index
-2345470644.index
-3618673065.index
-3349413686.index
-1429456332.index
-452330869.index
-1923297441.index
-1870255979.index
-1951941959.index
-51467596.index
-2959957318.index
-185975254.index
-3706135349.index
-2292250293.index
-4020602821.index
-2684115332.index
-2899965704.index
-2314065026.index
-3000975533.index
-3414683811.index
-2690778029.index
+INDEX VERSION 1.127+/Users/mikes/espace/.metadata/.plugins/org.eclipse.jdt.core
+328757685.index
+1244033743.index
+534987292.index
+2923884682.index
+1681134820.index
